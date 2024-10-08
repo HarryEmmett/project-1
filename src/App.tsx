@@ -26,6 +26,7 @@ const router = createBrowserRouter([
 ]);
 
 const App: React.FC = () => {
+  
   return (
     <>
       <nav>A HEADER</nav>
